@@ -5,7 +5,6 @@ Github Repository: https://github.com/Mostafa9898/shiny-application-and-reproduc
 
 Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
 
-Ioslide Presentation: http://rpubs.com/xavifu/265156
 
 ## Description
 
